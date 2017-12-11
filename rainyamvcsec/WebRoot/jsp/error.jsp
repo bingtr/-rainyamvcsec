@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>出错页面</title>
+<title>提示页面</title>
 </head>
 <body>
 	哎呦，出错咯！
