@@ -12,6 +12,11 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.rainya.po.RyBanner;
 import com.rainya.service.RyBannerService;
 
+/**
+ * 首页按钮
+ * @author zhangbin001
+ *
+ */
 @Controller
 @RequestMapping("banner")
 public class RyBannerController {
